@@ -1,0 +1,37 @@
+Section 1.1: Velocity and Tangent Line
+    The derivative is how steep the graph of f is at a given x-value, a.
+    f'(a) is the slope of the line tangent to the graph of f at x = a.
+    Formal Definition of the Derivative:
+        Given point <em>a</em>, the limit as <em>x</em> approaches <em>a</em> in:
+        [Img of function here]
+        This is equivalently represented by:
+        [Img of second function (a+h) representation]
+    Review Questions:
+    1. 
+Section 1.2: Limit of a Function, Infinite Limits, and Asymptotes
+
+Section 1.3: One-sided limits, Continuity
+
+Section 1.4: Derivative at a Point, Derivative as a Function, Differentiability
+
+Section 1.5: The Second Derivative, Shapes of Curves, Interpretations
+
+Section 1.6: Derivatives of Polynomials and Exponential Functions
+
+Section 1.7: The Product and Quotient Rules,  The Chain Rule
+
+Section 1.8: Derivatives of Trigonometric Functions
+
+Section 1.9: Implicit Differentiation
+
+Section 1.10: Derivatives of Inverse Functions
+
+Section 1.11: Linear Approximation
+
+Section 2.1: Critical Points and Local Extrema
+
+Section 2.2: Curve Sketching
+
+Section 2.3: Global Extrema
+
+Section 2.4: Optimization
