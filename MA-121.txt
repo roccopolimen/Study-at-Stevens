@@ -43,8 +43,47 @@ Section 1.2: Limit of a Function, Infinite Limits, and Asymptotes
         - x = a is in the domain of f(x)
         then you may evaluate the limit by substitution f(a).
 
-        Canceling the Denominator
-        
+        Canceling the Denominator:
+        You may cancel the dominator through simplification and factoring-
+        [insert example here]
+        Here, the value x = [insert a here] does not exist in the domain of the function f(x), therefore
+        you cannot immediately substitute. You may factor the numerator such that
+        [insert example w/ factored numerator here]
+        and divide by the denominator, resulting in
+        [insert simplified example here]
+        with which you can immediately substitute [insert a here], giving you
+        [insert evaluation of the limit here]
+
+        Rationalizing:
+        In the case that you have a square root in the numerator or denominator, for example
+        [insert example here]
+        in which you are given that the numerator is [insert numerator here], you may multiply both
+        the numerator and denominator of the equation by the conjugate of the numerator. Generally, if
+        you are given numerator or denominator [equation a + b(c)^1/2], multiply by:
+        [insert equation (a - b(c)^1/2)/(a-b(c)^1/2)] or [insert equation (-a + b(c)^1/2)/(-a + b(c)^1/2)]
+        So, in our example, you may multiply by [insert conjugate of numerator here]
+        [insert full multiplication using conjugate with simplified equation]
+
+    Limits at Infinity:
+    General Rules:
+    Top-heavy Functions-
+    If given the function
+    [insert function here]
+    where the leading exponent of the top is greater than that of the bottom, making the function top-heavy,
+    the limit as x approaches infinity of that function is infinity.
+    Bottom-heavy Function-
+    If given the function
+    [insert function here]
+    where the leading exponent of the bottom is greater than that of the top, making the function bottom-heavy,
+    the limit as x approaches infinity of that function is 0.
+    Neutral Numerator/Denominator-
+    If given the function
+    [insert function here]
+    where the leading exponent of the top and bottom are the same, you may evaluate the limit as x approaches
+    infinity as the coefficient of the leading exponent in the numerator divided by that of the denominator.
+    If the leading coefficient of either the numerator or denominator is within a square root, the limit as x
+    approaches infinity is +/- the leading coefficient of the numerator divded by that of the denominator.
+    
 Section 1.3: One-sided limits, Continuity
 
 Section 1.4: Derivative at a Point, Derivative as a Function, Differentiability
@@ -53,12 +92,7 @@ Section 1.5: The Second Derivative, Shapes of Curves, Interpretations
 
 Section 1.6: Derivatives of Polynomials and Exponential Functions
 
-Section 1.7: The Product and Quotient Rules, The Chain Rule
-	Product Rule: f(x) = a(x)b(x)
-				  f'(x) = a'(x)b(x) + a(x)b'(x)
-	Quotient Rule: f(x)= a(x)/b(x)
-				   f'(x)= (b(x)a'(x) - a(x)b'(x))/(b(x))^2
-	*Rhyme to remember the quotient rule: low di high - high di low over the square of what is below
+Section 1.7: The Product and Quotithe quotient rule: low di high - high di low over the square of what is below
 
 	Chain Rule: Take the derivative of the outside, and then take the derivative of the inside.
 				f(x) = a(b(x))
@@ -67,7 +101,12 @@ Section 1.7: The Product and Quotient Rules, The Chain Rule
 Section 1.8: Derivatives of Trigonometric Functions
 	sin'(x) = cosx
 	cos'(x) = -sinx
-	tan'(x) = sec^2(x)
+	tan'(x) = sec^ent Rules, The Chain Rule
+	Product Rule: f(x) = a(x)b(x)
+				  f'(x) = a'(x)b(x) + a(x)b'(x)
+	Quotient Rule: f(x)= a(x)/b(x)
+				   f'(x)= (b(x)a'(x) - a(x)b'(x))/(b(x))^2
+	*Rhyme to remember 2(x)
 	cot'(x) = -csc^2(x)
 	csc'(x) = -cscx*cotx
 	sec'(x) = secx*tanx
