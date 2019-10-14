@@ -53,20 +53,59 @@ Section 1.5: The Second Derivative, Shapes of Curves, Interpretations
 
 Section 1.6: Derivatives of Polynomials and Exponential Functions
 
-Section 1.7: The Product and Quotient Rules,  The Chain Rule
+Section 1.7: The Product and Quotient Rules, The Chain Rule
+	Product Rule: f(x) = a(x)b(x)
+				  f'(x) = a'(x)b(x) + a(x)b'(x)
+	Quotient Rule: f(x)= a(x)/b(x)
+				   f'(x)= (b(x)a'(x) - a(x)b'(x))/(b(x))^2
+	*Rhyme to remember the quotient rule: low di high - high di low over the square of what is below
+
+	Chain Rule: Take the derivative of the outside, and then take the derivative of the inside.
+				f(x) = a(b(x))
+				f'(x) = a'(b(x))*b'(x)
 
 Section 1.8: Derivatives of Trigonometric Functions
+	sin'(x) = cosx
+	cos'(x) = -sinx
+	tan'(x) = sec^2(x)
+	cot'(x) = -csc^2(x)
+	csc'(x) = -cscx*cotx
+	sec'(x) = secx*tanx
 
 Section 1.9: Implicit Differentiation
+	Needed when you have to take the derivative of x and y, but the derivative of y is in terms of x (dy/dx or y').
 
 Section 1.10: Derivatives of Inverse Functions
+	(Reference picture)
 
 Section 1.11: Linear Approximation
+	L(x) = f(a) + f'(a)(x-a)
 
 Section 2.1: Critical Points and Local Extrema
+	Critical points exist when the first derivative of a function is equal to 0 or it doesn't exist.
+	Check the behavior of the function at its critical points to determine if the critical points are points of local extrema - points where f(x) reaches its maximum or minimum. 
+
+	If the function goes from increasing to decreasing at the critical point, the function has a maximum there.
+	If the function goes from decreasing to increasing at the critical point, the function has a minimum there.
 
 Section 2.2: Curve Sketching
+	1. Determine the vertical asymptotes
+	2. Determine the horizontal asymptotes
+	3. Find the critical points of the function by using the 1st derivative.
+	4. Find the intervals of increasing/decreasing and any max/min.
+	5. Find any inflection points by using the 2nd derivative.
+	6. Find the intervals of concave up and concave down.
+
+	Based on all the information, sketch an approximation of the curve.
 
 Section 2.3: Global Extrema
+	Global extrema is the overall max and min of a function. Some functions may have both but others may not have either so it depends.
+	To find the global extrema, you proceed with how you would do it with local extrema, but here you have to evaluate the values, to determine what the overall max/min is.
+	If the function is defined within an interval, you also have to evaluate the endpoints of the interval. 
 
 Section 2.4: Optimization
+	For optimization, two equations are needed to solve the problem. 
+		1. The equation that you have information for that you can use to define one variable in terms of another.
+		2. The equation that you are trying to optimize.
+
+	Once you use the first equation to define one variable in terms of another, substitute that into the second equation so the equation is in terms of one variable. From there, take the derivative, find the critical points, and determine the points of maxima and minima.
