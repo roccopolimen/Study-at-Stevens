@@ -1,20 +1,19 @@
-Week 1: Recursion
-    Recursion is recursive
-    
+Week 1: Picobot
+     
+Week 2: Map/Reduce in Python
+
+Week 3: Recursion
     Formal Definition of the Recursion:
         
     Review Questions:
-    1. 
-Week 2: more Recursion
+    1.
 
-Week 3: even more Recursion
+Week 4: Use it or Lose it
 
-Week 4: its still Recursion
+Week 5: Tuples and Dictionaries
 
-Week 5: ok Recursion is getting old
+Week 6: Memoization
 
-Week 6: how the #$%^ is it still Recursion
+Week 7: Base Conversion and Binary Operations
 
-Week 7: Wellp, you guessed it, Recursion
-
-Week 8: The maximal depth of Recursion
+Week 8: Logical Circuits
