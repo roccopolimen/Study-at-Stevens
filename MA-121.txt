@@ -84,6 +84,10 @@ Section 1.2: Limit of a Function, Infinite Limits, and Asymptotes
     If the leading coefficient of either the numerator or denominator is within a square root, the limit as x
     approaches infinity is +/- the leading coefficient of the numerator divded by that of the denominator.
     
+    Horizontal Asymptotes:
+    Anywhere the limit of f(x), as x approaches infinity, does not equal +/- infinity, there is a horizontal
+    asymptote. 
+
 Section 1.3: One-sided limits, Continuity
 
 Section 1.4: Derivative at a Point, Derivative as a Function, Differentiability
@@ -91,7 +95,7 @@ Section 1.4: Derivative at a Point, Derivative as a Function, Differentiability
 Section 1.5: The Second Derivative, Shapes of Curves, Interpretations
 
 Section 1.6: Derivatives of Polynomials and Exponential Functions
-
+    
 Section 1.7: The Product and Quotithe quotient rule: low di high - high di low over the square of what is below
 
 	Chain Rule: Take the derivative of the outside, and then take the derivative of the inside.
