@@ -1,0 +1,19 @@
+Week 1: Picobot
+     
+Week 2: Map/Reduce in Python
+
+Week 3: Recursion
+    Formal Definition of the Recursion:
+        
+    Review Questions:
+    1.
+
+Week 4: Use it or Lose it
+
+Week 5: Tuples and Dictionaries
+
+Week 6: Memoization
+
+Week 7: Base Conversion and Binary Operations
+
+Week 8: Logical Circuits
