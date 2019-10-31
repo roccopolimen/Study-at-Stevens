@@ -1,0 +1,15 @@
+header {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+header a {
+    width: 100px;
+    height: 100px;
+}
+
+header h1{
+    color: white;
+}
