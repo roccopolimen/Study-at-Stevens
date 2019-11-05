@@ -28,7 +28,7 @@ nav {
     font-size: 16px;
 }
 
-nav>a {
+nav a {
     padding:10px;
     margin:10px;
     border-style: solid;
@@ -54,7 +54,6 @@ nav>a {
 
 .dropdown-content {
     display: none;
-    /* flex-direction: column; */
     position: absolute;
     background-color: red;
     min-width: 200px;
@@ -66,7 +65,6 @@ nav>a {
     text-decoration: none;
     padding: 8px;
     color: white;
-    /* font-size: 14px; */
 }
 
 .dropdown:hover .dropdown-content {
@@ -106,6 +104,13 @@ footer p {
     width: 80%;
     height: 30px;
 }
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+@media only screen and (min-device-width: 999px) {
+=======
+>>>>>>> 9303fe6c755683c5461ef89e05aab656825b27f2
 body h2 {
     text-align: center;
     color: white;
@@ -114,10 +119,12 @@ body h2 {
     margin-top: 0px;
     font-style: italic;
 }
+
 .page {
     text-align: center;
     color: lightgray;
     font-size: 20px;
+<<<<<<< HEAD
 }
 .example {
     text-align: center;
@@ -135,4 +142,40 @@ body h2 {
 
 @media only screen and (max-width: 399px) {
     
+=======
+}
+
+@media only screen and (min-width: 999px) {
+>>>>>>> d3efd6df84365152508eae60572e0d9eeb05a55b
+
+}
+
+@media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
+
+}
+
+@media only screen and (max-device-width: 399px) {
+    header h1{
+        font-size: 75px;
+    }
+    header a img{
+        width: 175px;
+        height: 175px;
+    }
+    nav{
+        font-size: 32px;
+    }
+    .dropbtn{
+        font-size: 32px;
+    }
+    .contact-form{
+        font-size: 50px;
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-form #name,#email,#message{
+        width: 40%;
+        height: 30px;
+    }
+>>>>>>> 9303fe6c755683c5461ef89e05aab656825b27f2
 }
