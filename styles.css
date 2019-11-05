@@ -28,7 +28,7 @@ nav {
     font-size: 16px;
 }
 
-nav a {
+nav>a {
     padding:10px;
     margin:10px;
     border-style: solid;
@@ -54,6 +54,7 @@ nav a {
 
 .dropdown-content {
     display: none;
+        /* flex-direction: column; */
     position: absolute;
     background-color: red;
     min-width: 200px;
@@ -104,14 +105,7 @@ footer p {
     width: 80%;
     height: 30px;
 }
-<<<<<<< HEAD
-=======
-
-<<<<<<< HEAD
-@media only screen and (min-device-width: 999px) {
-=======
->>>>>>> 9303fe6c755683c5461ef89e05aab656825b27f2
-body h2 {
+.title {
     text-align: center;
     color: white;
     font-size: 60px;
@@ -124,7 +118,6 @@ body h2 {
     text-align: center;
     color: lightgray;
     font-size: 20px;
-<<<<<<< HEAD
 }
 .example {
     text-align: center;
@@ -142,11 +135,6 @@ body h2 {
 
 @media only screen and (max-width: 399px) {
     
-=======
-}
-
-@media only screen and (min-width: 999px) {
->>>>>>> d3efd6df84365152508eae60572e0d9eeb05a55b
 
 }
 
@@ -177,5 +165,4 @@ body h2 {
         width: 40%;
         height: 30px;
     }
->>>>>>> 9303fe6c755683c5461ef89e05aab656825b27f2
 }
