@@ -85,6 +85,11 @@ main h1 {
     text-decoration: underline;
 }
 
+main nav {
+    color: white;
+    background-color: none;
+}
+
 main p {
     font-size: 18px;
 }
