@@ -1,5 +1,6 @@
 body{
     font-family:monospace;
+    background-color: black;
 }
 
 header {
@@ -23,6 +24,7 @@ nav {
     display: flex;
     justify-content: space-between;
     background-color: crimson;
+    font-size: 16px;
 }
 
 nav>a {
@@ -31,6 +33,7 @@ nav>a {
     border-style: solid;
     border-width: 2px;
     color:white;
+    text-decoration: none;
 }
 
 .dropbtn {
@@ -40,6 +43,7 @@ nav>a {
     color: white;
     padding: 10px;
     margin: 10px;
+    font-size: 16px;
 }
 
 .dropdown {
@@ -61,8 +65,38 @@ nav>a {
     text-decoration: none;
     padding: 8px;
     color: white;
+    /* font-size: 14px; */
 }
 
 .dropdown:hover .dropdown-content {
     display: block;
+    background-color: crimson;
+}
+
+main {
+    padding-left: 10px;
+    background-color: gray;
+    color: white;
+}
+
+main h1 {
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+main p {
+    font-size: 18px;
+}
+
+main p strong {
+    font: bold;
+    font-size: 20px;
+}
+
+footer p {
+    color: gray;
+    font-size: 12px;
+    position: absolute;
+    width: 80%;
+    height: 30px;
 }
