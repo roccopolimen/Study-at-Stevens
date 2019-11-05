@@ -83,6 +83,11 @@ main h1 {
     text-decoration: underline;
 }
 
+main nav {
+    color: white;
+    background-color: none;
+}
+
 main p {
     font-size: 18px;
 }
@@ -100,6 +105,21 @@ footer p {
     height: 30px;
 }
 
+body h2 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-style: italic;
+}
+
+.page {
+    text-align: center;
+    color: lightgray;
+    font-size: 20px;
+}
+
 @media only screen and (min-width: 999px) {
 
 }
@@ -109,5 +129,5 @@ footer p {
 }
 
 @media only screen and (max-width: 399px) {
-
+    
 }
