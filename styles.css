@@ -49,10 +49,18 @@ nav>a {
 
 .dropdown-content {
     display: none;
+    /* flex-direction: column; */
     position: absolute;
     background-color: red;
     min-width: 200px;
     z-index: 1;
+}
+
+.dropdown-content a {
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+    color: white;
 }
 
 .dropdown:hover .dropdown-content {
