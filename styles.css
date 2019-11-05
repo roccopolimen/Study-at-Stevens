@@ -130,12 +130,40 @@ footer p {
     font-size: 25px;
     margin-top: 5px;
 }
+<<<<<<< HEAD
 .link {
     font-size: 20px;
     text-align: center;
 }
 @media only screen and (min-width: 999px) {
+=======
+>>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
 
+input[type="text"] {
+    width: 50%;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+form {
+    font-size: 30px;
 }
 
 @media only screen and (min-device-width: 999px) {
@@ -149,6 +177,7 @@ footer p {
         font-style: italic;
     }
 
+<<<<<<< HEAD
 @media only screen and (max-width: 399px) {
     
     .page {
@@ -161,36 +190,43 @@ footer p {
 @media only screen and (min-width: 999px) {
 }
 
+=======
+>>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
 
 }
 
 @media only screen and (max-device-width: 399px) {
-    header h1{
+
+    header h1 {
         font-size: 75px;
     }
-    header a img{
+
+    header a img {
         width: 175px;
         height: 175px;
     }
-    nav{
+
+    nav {
         font-size: 32px;
     }
-    .dropbtn{
+
+    .dropbtn {
         font-size: 32px;
     }
-    .contact-form{
+
+    .contact-form {
         font-size: 50px;
         display: flex;
         justify-content: left;
         flex-direction: column;
         justify-content: space-between;
     }
-    .contact-form #name,#email,#message{
+
+    .contact-form #name,#email,#message {
         width: 40%;
         height: 30px;
         margin-bottom: 40px;
-        
     }
 
     .contact-form #message {
