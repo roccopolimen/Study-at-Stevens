@@ -110,6 +110,33 @@ footer p {
     height: 30px;
 }
 
+input[type="text"] {
+    width: 50%;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+form {
+    font-size: 30px;
+}
+
 @media only screen and (min-device-width: 999px) {
 
     body h2 {
@@ -126,10 +153,6 @@ footer p {
         color: lightgray;
         font-size: 20px;
     }
-}
-
-@media only screen and (min-width: 999px) {
-
 }
 
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
