@@ -106,3 +106,30 @@ footer p {
     width: 80%;
     height: 30px;
 }
+<<<<<<< HEAD
+body h2 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-style: italic;
+}
+.page {
+    text-align: center;
+    color: lightgray;
+    font-size: 20px;
+=======
+
+@media only screen and (min-width: 999px) {
+
+}
+
+@media only screen and (max-width: 998px) and (min-width: 400px) {
+
+}
+
+@media only screen and (max-width: 399px) {
+    
+>>>>>>> cedc3b0302ae68405f7c2747a561b3b322df06f4
+}
