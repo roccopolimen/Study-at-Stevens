@@ -45,6 +45,7 @@ nav>a {
     padding: 10px;
     margin: 10px;
     font-size: 16px;
+    font-family: monospace;
 }
 
 .dropdown {
@@ -109,6 +110,7 @@ footer p {
     width: 80%;
     height: 30px;
 }
+<<<<<<< HEAD
 .title {
     text-align: center;
     color: white;
@@ -132,13 +134,33 @@ footer p {
 @media only screen and (min-width: 999px) {
 
 }
+=======
 
-@media only screen and (max-width: 998px) and (min-width: 400px) {
+@media only screen and (min-device-width: 999px) {
+>>>>>>> 449d544bd9542656169bd5ed4e166cc77816becd
 
-}
+    body h2 {
+        text-align: center;
+        color: white;
+        font-size: 60px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        font-style: italic;
+    }
 
+<<<<<<< HEAD
 @media only screen and (max-width: 399px) {
     
+=======
+    .page {
+        text-align: center;
+        color: lightgray;
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 999px) {
+>>>>>>> 449d544bd9542656169bd5ed4e166cc77816becd
 
 }
 
@@ -163,10 +185,25 @@ footer p {
     .contact-form{
         font-size: 50px;
         display: flex;
+        justify-content: left;
         flex-direction: column;
+        justify-content: space-between;
     }
     .contact-form #name,#email,#message{
         width: 40%;
         height: 30px;
+        margin-bottom: 40px;
+        
+    }
+
+    .contact-form #message {
+        margin-top: 40px;
+        padding: 40px;
+    }
+
+    input[type=submit] {
+        font-family: monospace;
+        font-size: 50px;
+        margin-bottom: 30px;
     }
 }
