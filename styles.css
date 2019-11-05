@@ -130,14 +130,11 @@ footer p {
     font-size: 25px;
     margin-top: 5px;
 }
-<<<<<<< HEAD
+
 .link {
     font-size: 20px;
     text-align: center;
 }
-@media only screen and (min-width: 999px) {
-=======
->>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
 
 input[type="text"] {
     width: 50%;
@@ -176,22 +173,8 @@ form {
         margin-top: 0px;
         font-style: italic;
     }
-
-<<<<<<< HEAD
-@media only screen and (max-width: 399px) {
-    
-    .page {
-        text-align: center;
-        color: lightgray;
-        font-size: 20px;
-    }
 }
 
-@media only screen and (min-width: 999px) {
-}
-
-=======
->>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
 
 }
@@ -239,5 +222,4 @@ form {
         font-size: 50px;
         margin-bottom: 30px;
     }
-}
 }
