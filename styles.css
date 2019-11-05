@@ -98,6 +98,10 @@ main p strong {
     font-size: 20px;
 }
 
+main table {
+    font-size: 15px; 
+}
+
 footer p {
     color: gray;
     font-size: 12px;
