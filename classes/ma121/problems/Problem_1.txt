@@ -1,0 +1,11 @@
+Topic: 
+Velocity and Tangent Lines
+
+Problem Number: 
+1
+
+Problem:
+Find x if x + 2 = 7
+
+Answer:
+5
