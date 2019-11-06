@@ -1,4 +1,4 @@
-body{
+body {
     font-family:monospace;
     background-color: black;
     color: white;
@@ -110,6 +110,7 @@ footer p {
     width: 80%;
     height: 30px;
 }
+
 .title {
     text-align: center;
     color: white;
@@ -124,6 +125,7 @@ footer p {
     color: lightgray;
     font-size: 20px;
 }
+
 .example {
     text-align: center;
     color: white;
