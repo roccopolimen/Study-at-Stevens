@@ -205,11 +205,6 @@ form {
         margin-bottom: 40px;
     }
 
-    .contact-form #message {
-        margin-top: 40px;
-        padding: 40px;
-    }
-
     input[type=submit] {
         font-size: 50px;
         margin-bottom: 30px;
@@ -218,4 +213,6 @@ form {
     table {
         font-size: 30px;
     }
+
+
 }
