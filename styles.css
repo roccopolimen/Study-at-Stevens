@@ -148,6 +148,7 @@ input[type="text"] {
 }
 
 input[type=submit] {
+    font-family: monospace;
     background-color: #4CAF50;
     color: white;
     padding: 12px 20px;
@@ -219,7 +220,6 @@ form {
     }
 
     input[type=submit] {
-        font-family: monospace;
         font-size: 50px;
         margin-bottom: 30px;
     }
