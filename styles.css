@@ -166,6 +166,7 @@ form {
 }
 
 @media only screen and (min-device-width: 999px) {
+
 }
 
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
@@ -203,11 +204,6 @@ form {
         width: 40%;
         height: 30px;
         margin-bottom: 40px;
-    }
-
-    .contact-form #message {
-        margin-top: 40px;
-        padding: 40px;
     }
 
     input[type=submit] {
