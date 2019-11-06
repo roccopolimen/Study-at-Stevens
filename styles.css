@@ -110,7 +110,7 @@ footer p {
 }
 
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
-    
+
 }
 
 @media only screen and (max-device-width: 399px) {
@@ -138,8 +138,5 @@ footer p {
     }
     table{
         font-size: 36px;
-    }
-    .contact-form{
-        height: screen;
     }
 }
