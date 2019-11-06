@@ -105,31 +105,12 @@ footer p {
     height: 30px;
 }
 
-<<<<<<< HEAD
-@media only screen and (min-device-width: 999px) {
-=======
-body h2 {
-    text-align: center;
-    color: white;
-    font-size: 60px;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    font-style: italic;
-}
-
-.page {
-    text-align: center;
-    color: lightgray;
-    font-size: 20px;
-}
-
-@media only screen and (min-width: 999px) {
->>>>>>> d3efd6df84365152508eae60572e0d9eeb05a55b
+@media oy screen and (min-device-width: 999px) {
 
 }
 
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
-
+    
 }
 
 @media only screen and (max-device-width: 399px) {
@@ -154,5 +135,11 @@ body h2 {
     .contact-form #name,#email,#message{
         width: 40%;
         height: 30px;
+    }
+    table{
+        font-size: 36px;
+    }
+    .contact-form{
+        height: screen;
     }
 }
