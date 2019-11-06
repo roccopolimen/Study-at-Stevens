@@ -131,14 +131,11 @@ footer p {
     font-size: 25px;
     margin-top: 5px;
 }
-<<<<<<< HEAD
+
 .link {
     font-size: 20px;
     text-align: center;
 }
-@media only screen and (min-width: 999px) {
-=======
->>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
 
 input[type="text"] {
     width: 50%;
@@ -178,6 +175,7 @@ form {
         margin-top: 0px;
         font-style: italic;
     }
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -204,6 +202,10 @@ form {
 =======
 >>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
 >>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
+=======
+}
+
+>>>>>>> b02877451876014bfca1337747b2be620fd7f655
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
 
 }
@@ -249,10 +251,13 @@ form {
         margin-bottom: 30px;
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
     table{
         font-size: 36px;
     }
 =======
 }
 >>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
+=======
+>>>>>>> b02877451876014bfca1337747b2be620fd7f655
 }
