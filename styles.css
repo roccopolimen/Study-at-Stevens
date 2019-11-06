@@ -109,6 +109,64 @@ footer p {
     width: 80%;
     height: 30px;
 }
+<<<<<<< HEAD
+=======
+.title {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-style: italic;
+}
+
+.page {
+    text-align: center;
+    color: lightgray;
+    font-size: 20px;
+}
+.example {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 5px;
+}
+<<<<<<< HEAD
+.link {
+    font-size: 20px;
+    text-align: center;
+}
+@media only screen and (min-width: 999px) {
+=======
+>>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
+
+input[type="text"] {
+    width: 50%;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+form {
+    font-size: 30px;
+}
+>>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
 
 @media only screen and (min-device-width: 999px) {
 
@@ -121,6 +179,12 @@ footer p {
         font-style: italic;
     }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+@media only screen and (max-width: 399px) {
+    
+>>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
     .page {
         text-align: center;
         color: lightgray;
@@ -128,10 +192,18 @@ footer p {
     }
 }
 
+<<<<<<< HEAD
 @media only screen and (min-device-width: 999px) {
 
 }
 
+=======
+@media only screen and (min-width: 999px) {
+}
+
+=======
+>>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
+>>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
 
 }
@@ -176,7 +248,11 @@ footer p {
         font-size: 50px;
         margin-bottom: 30px;
     }
+<<<<<<< HEAD
     table{
         font-size: 36px;
     }
+=======
+}
+>>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
 }
