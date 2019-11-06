@@ -55,6 +55,7 @@ nav>a {
 
 .dropdown-content {
     display: none;
+        /* flex-direction: column; */
     position: absolute;
     background-color: red;
     min-width: 200px;
@@ -109,8 +110,6 @@ footer p {
     width: 80%;
     height: 30px;
 }
-<<<<<<< HEAD
-=======
 .title {
     text-align: center;
     color: white;
@@ -163,7 +162,6 @@ input[type=submit]:hover {
 form {
     font-size: 30px;
 }
->>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
 
 @media only screen and (min-device-width: 999px) {
 
@@ -175,74 +173,48 @@ form {
         margin-top: 0px;
         font-style: italic;
     }
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-@media only screen and (max-width: 399px) {
-    
->>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
-    .page {
-        text-align: center;
-        color: lightgray;
-        font-size: 20px;
-    }
 }
 
-<<<<<<< HEAD
-@media only screen and (min-device-width: 999px) {
-
-}
-
-=======
-@media only screen and (min-width: 999px) {
-}
-
-=======
->>>>>>> 2d17678f384dd999c0c62c706bd2452b261d8a58
->>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
-=======
-}
-
->>>>>>> b02877451876014bfca1337747b2be620fd7f655
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
-
+    
 }
 
 @media only screen and (max-device-width: 399px) {
-    header h1{
+
+    header h1 {
         font-size: 75px;
     }
-    header a img{
+
+    header a img {
         width: 175px;
         height: 175px;
     }
-    nav{
+
+    nav {
         font-size: 32px;
     }
-    .dropbtn{
+
+    .dropbtn {
         font-size: 32px;
     }
-    .contact-form{
+
+    .contact-form {
         font-size: 50px;
         display: flex;
         justify-content: left;
         flex-direction: column;
         justify-content: space-between;
     }
-    .contact-form #name,#email,#message{
+
+    .contact-form #name,#email,#message {
         width: 40%;
         height: 30px;
-        margin-bottom: 40px;        
+        margin-bottom: 40px;
     }
 
     .contact-form #message {
         margin-top: 40px;
         padding: 40px;
-    }
-    .contact-form ::placeholder{
-        text-align: top,left;
     }
 
     input[type=submit] {
@@ -250,14 +222,4 @@ form {
         font-size: 50px;
         margin-bottom: 30px;
     }
-<<<<<<< HEAD
-<<<<<<< HEAD
-    table{
-        font-size: 36px;
-    }
-=======
-}
->>>>>>> 34bd6d3b4208908d031533d7ec46557a9a520931
-=======
->>>>>>> b02877451876014bfca1337747b2be620fd7f655
 }
