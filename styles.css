@@ -1,4 +1,4 @@
-body{
+body {
     font-family:monospace;
     background-color: black;
     color: white;
@@ -55,7 +55,6 @@ nav>a {
 
 .dropdown-content {
     display: none;
-        /* flex-direction: column; */
     position: absolute;
     background-color: red;
     min-width: 200px;
@@ -110,10 +109,11 @@ footer p {
     width: 80%;
     height: 30px;
 }
+
 .title {
     text-align: center;
     color: white;
-    font-size: 60px;
+    font-size: 45px;
     margin-bottom: 0px;
     margin-top: 0px;
     font-style: italic;
@@ -124,6 +124,7 @@ footer p {
     color: lightgray;
     font-size: 20px;
 }
+
 .example {
     text-align: center;
     color: white;
@@ -132,7 +133,7 @@ footer p {
 }
 
 .link {
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
 }
 
@@ -147,6 +148,7 @@ input[type="text"] {
 }
 
 input[type=submit] {
+    font-family: monospace;
     background-color: #4CAF50;
     color: white;
     padding: 12px 20px;
@@ -164,15 +166,6 @@ form {
 }
 
 @media only screen and (min-device-width: 999px) {
-
-    body h2 {
-        text-align: center;
-        color: white;
-        font-size: 60px;
-        margin-bottom: 0px;
-        margin-top: 0px;
-        font-style: italic;
-    }
 }
 
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
@@ -213,7 +206,6 @@ form {
     }
 
     input[type=submit] {
-        font-family: monospace;
         font-size: 50px;
         margin-bottom: 30px;
     }
