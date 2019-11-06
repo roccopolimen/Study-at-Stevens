@@ -54,7 +54,6 @@ nav a {
 
 .dropdown-content {
     display: none;
-    /* flex-direction: column; */
     position: absolute;
     background-color: red;
     min-width: 200px;
@@ -66,7 +65,6 @@ nav a {
     text-decoration: none;
     padding: 8px;
     color: white;
-    /* font-size: 14px; */
 }
 
 .dropdown:hover .dropdown-content {
@@ -83,6 +81,11 @@ main {
 main h1 {
     font-size: 36px;
     text-decoration: underline;
+}
+
+main nav {
+    color: white;
+    background-color: none;
 }
 
 main p {
@@ -102,7 +105,26 @@ footer p {
     height: 30px;
 }
 
+<<<<<<< HEAD
 @media only screen and (min-device-width: 999px) {
+=======
+body h2 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-style: italic;
+}
+
+.page {
+    text-align: center;
+    color: lightgray;
+    font-size: 20px;
+}
+
+@media only screen and (min-width: 999px) {
+>>>>>>> d3efd6df84365152508eae60572e0d9eeb05a55b
 
 }
 
