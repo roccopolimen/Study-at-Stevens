@@ -55,7 +55,6 @@ nav>a {
 
 .dropdown-content {
     display: none;
-        /* flex-direction: column; */
     position: absolute;
     background-color: red;
     min-width: 200px;
