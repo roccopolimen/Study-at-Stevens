@@ -113,7 +113,7 @@ footer p {
 .title {
     text-align: center;
     color: white;
-    font-size: 60px;
+    font-size: 45px;
     margin-bottom: 0px;
     margin-top: 0px;
     font-style: italic;
@@ -133,7 +133,7 @@ footer p {
 }
 
 .link {
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
 }
 
@@ -165,15 +165,6 @@ form {
 }
 
 @media only screen and (min-device-width: 999px) {
-
-    body h2 {
-        text-align: center;
-        color: white;
-        font-size: 60px;
-        margin-bottom: 0px;
-        margin-top: 0px;
-        font-style: italic;
-    }
 }
 
 @media only screen and (max-device-width: 998px) and (min-device-width: 400px) {
