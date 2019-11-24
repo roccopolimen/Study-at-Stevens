@@ -1,0 +1,14 @@
+Topic:
+One Sided Limits
+
+Problem Number:
+6
+
+Problem:
+lim x-->1^-
+      { -1 if x <  1
+f(x) ={
+      { 1  if x >= 1
+
+Answer:
+1
