@@ -1,0 +1,11 @@
+Topic: 
+Basic Limits
+
+Problem Number:
+4
+
+Problem:
+Lim x-->2 (((x^2)-4)/(x-2))
+
+Answer:
+4

@@ -1,0 +1,11 @@
+Topic: 
+Basic Limits
+
+Problem Number: 
+2
+
+Problem: 
+Lim x-->3 (1)
+
+Answer:
+1

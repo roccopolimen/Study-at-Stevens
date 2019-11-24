@@ -1,0 +1,11 @@
+Topic: 
+Basic Limits
+
+Problem Number:
+3
+
+Problem:
+Lim x-->1 (2x/1)
+
+Answer:
+2
