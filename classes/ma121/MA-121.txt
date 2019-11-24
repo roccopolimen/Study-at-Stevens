@@ -96,7 +96,7 @@ Section 1.5: The Second Derivative, Shapes of Curves, Interpretations
 
 Section 1.6: Derivatives of Polynomials and Exponential Functions
     
-Section 1.7: The Product and Quotithe quotient rule: low di high - high di low over the square of what is below
+Section 1.7: The Product and Quotient Rule: low di high - high di low over the square of what is below
 
 	Chain Rule: Take the derivative of the outside, and then take the derivative of the inside.
 				f(x) = a(b(x))
