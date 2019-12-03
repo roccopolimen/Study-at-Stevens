@@ -1,0 +1,11 @@
+Topic: 
+Derivatives of Trignometric Functions
+
+Problem Number:
+15
+
+Problem:
+f(x) = sec(x)
+
+Answer:
+f'(x) = tan(x)sec(x)
