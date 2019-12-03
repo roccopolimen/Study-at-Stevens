@@ -2,10 +2,10 @@ Topic:
 Derivatives of Trignometric Functions
 
 Problem Number:
-14
+15
 
 Problem:
-f(x) = sin(x)
+f(x) = sec(x)
 
 Answer:
-f'(x) = cos(x)
+f'(x) = tan(x)sec(x)
