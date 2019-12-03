@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-var logfile;
-$.get("/classes/ma121/problems/Problem_1.txt", function(response) {
-    logfile = response;
-    alert(logfile);
-});
-=======
 //var file_txt = "";
 //    
 //"/classes/ma121/problems/Problem_5.txt"
@@ -14,6 +7,7 @@ $.get("/classes/ma121/problems/Problem_1.txt", function(response) {
 //    file_txt = data;
 //    alert(file_txt);
 //});
+
 function load_problem(cl, num){
     var logfile;
     $.get("/classes/"+cl+"/problems/Problem_"+num+".txt", function(response) {
@@ -36,4 +30,3 @@ function load_problem(cl, num){
         alert(topic + prob_number + prob_body + solution);
     });
 }
->>>>>>> 8c8bff7037c86a69963feb65ccac167d222c9110
