@@ -1,0 +1,11 @@
+Topic: 
+Optimization
+
+Problem Number:
+14
+
+Problem:
+Find the dimenstions of a rectange with an area 1000m^2, whose perimeter is as small as possible
+
+Answer:
+126.49
