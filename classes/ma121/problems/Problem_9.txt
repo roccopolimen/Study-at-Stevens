@@ -1,0 +1,11 @@
+Topic:
+Derivatives
+
+Problem Number:
+9
+
+Problem:
+Take the derivative of e^x
+
+Answer:
+e^x

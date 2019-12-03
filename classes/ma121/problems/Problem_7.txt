@@ -1,0 +1,11 @@
+Topic:
+Derivatives
+
+Problem Number:
+7
+
+Problem:
+What is the Derivative of 2x^3?
+
+Answer:
+6x^2
