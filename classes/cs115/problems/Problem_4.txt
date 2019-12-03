@@ -1,0 +1,14 @@
+Topic: 
+Map/Reduce
+
+Problem Number:
+4
+
+Problem:
+What is the result of the function?
+def plusOne(x):
+    return x+1 
+map(plusOne, [4,38,74,90])
+
+Answer:
+[5,39,74,90]

@@ -1,0 +1,14 @@
+Topic:
+Map/Reduce
+
+Problem Number:
+3
+
+Problem:
+What is the result of the following code? 
+def add(x,y):
+    return (x+y)
+reduce(add, [47,11,42,13])
+
+Answer:
+113g
