@@ -1,5 +1,5 @@
 Topic: 
-Basic Limits
+Limits of Functions and Asymptotes
 
 Problem Number:
 3

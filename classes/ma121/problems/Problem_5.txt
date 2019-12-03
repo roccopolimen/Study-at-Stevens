@@ -1,5 +1,5 @@
 Topic:
-One Sided Limits
+Limits of Functions and Asymptotes
 
 Problem Number:
 5

@@ -1,5 +1,5 @@
-Topic: 
-Basic Limits
+Topic:
+Limits of Functions and Asymptotes
 
 Problem Number:
 4
