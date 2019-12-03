@@ -2,7 +2,7 @@ Topic:
 The Product and Quotient Rule
 
 Problem Number:
-14
+13
 
 Problem:
 f(x) = x^2/(x-2)
