@@ -1,12 +1,11 @@
 Topic:
-Linear Approximation
+Critical Points and Local Extrema
 
 Problem Number:
-20
+22
 
 Problem:
 
 
 Answer:
-
 
