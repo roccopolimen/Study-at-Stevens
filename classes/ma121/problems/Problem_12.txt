@@ -9,3 +9,4 @@ f(x) = x^2(lnx)
 
 Answer:
 f'(x) = x(2lnx + 1)
+

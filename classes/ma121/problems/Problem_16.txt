@@ -9,3 +9,4 @@ f(x) = sec(x)
 
 Answer:
 f'(x) = tan(x)sec(x)
+

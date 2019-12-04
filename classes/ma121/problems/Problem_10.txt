@@ -9,3 +9,4 @@ Find the second derivative of 2x^4
 
 Answer:
 24x^2
+

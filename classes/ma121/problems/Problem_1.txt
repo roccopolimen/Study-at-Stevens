@@ -9,3 +9,4 @@ Find x if x + 2 = 7
 
 Answer:
 5
+
