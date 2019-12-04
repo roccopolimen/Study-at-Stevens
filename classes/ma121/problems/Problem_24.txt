@@ -7,10 +7,9 @@ Problem Number:
 Problem:
 For f(x) = (x^2)/(x^2+3):
 - Find vertical and horizontal asymptotes of f(x), if any
-- Find all critical numbers
-- Find the intervals where f(x) is increasing, where it is decreasing,
-and specify local extrema
-- Find the intervals where f(x) is concave up and/or concave down,
-and specify points of inflection
+- Find the critical points
+- Find the intervals where f(x) is increasing and/or decreasing and specify the local extrema
+- Find the intervals where f(x) is concave up and/or concave down and specify the points of inflection
 
 Answer:
+
