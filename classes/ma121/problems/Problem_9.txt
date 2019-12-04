@@ -5,8 +5,8 @@ Problem Number:
 9
 
 Problem:
-Take the derivative of e^x
+f(x) = e^x. Find f'(x).
 
 Answer:
-e^x
+f'(x) = e^x
 

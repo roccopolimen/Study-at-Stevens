@@ -8,5 +8,5 @@ Problem:
 Add 01100011 and 00011110, without changing them into decimal.
 
 Answer:
-11010101
+10000001
 
