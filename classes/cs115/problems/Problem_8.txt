@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Topic:
 Base Conversion and Binary Operations
 
