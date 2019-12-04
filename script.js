@@ -16,6 +16,7 @@
 //     alert(response);
 //     var topic = logfile[1];
     
+<<<<<<< Updated upstream
 //     var prob_number = logfile[4];
 //     var prob_body = "";
 //     var n = 7;
@@ -23,6 +24,15 @@
 //         prob_body += logfile[n];
 //         n++;
 //     }
+=======
+    var prob_number = logfile[4];
+    var prob_body = "";
+    var n = 7;
+    while (logfile[n] != logfile[2]){
+        prob_body += logfile[n] + "|";
+        n++;
+    }
+>>>>>>> Stashed changes
     
 //     n+=2
 //     var solution = "";
