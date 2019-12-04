@@ -1,14 +1,19 @@
-Topic: 
-Map/Reduce
+Topic:
+Recursion
 
 Problem Number:
 4
 
 Problem:
-What is the result of the function?
-def plusOne(x):
-    return x+1 
-map(plusOne, [4,38,74,90])
+What is the result when the following code is run:
+def mystery(x):
+   if x == 1:
+       return x
+   else:
+       return x*mystery(x-1)
+
+print(mystery(4))
 
 Answer:
-[5,39,74,90]
+24
+

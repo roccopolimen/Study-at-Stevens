@@ -1,4 +1,15 @@
 Topic:
-Recursion
+Map/Reduce
+
+Problem Number:
+1
 
 Problem:
+What is the result of the following code? 
+def mystery(x,y):
+    return (x+y)
+reduce(mystery, [47,11,42,13])
+
+Answer:
+113
+

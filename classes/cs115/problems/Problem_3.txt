@@ -1,14 +1,20 @@
-Topic:
+Topic: 
 Map/Reduce
 
 Problem Number:
 3
 
 Problem:
-What is the result of the following code? 
-def add(x,y):
-    return (x+y)
-reduce(add, [47,11,42,13])
+def mystery1(x):
+	return x*x
+def mystery2(x,y):
+	return x+y
+What is the purpose of the following function:
+def unknown(n):
+	return reduce(add, map(square, range(n+1)))
 
 Answer:
-113g
+To sum the squares of numbers from 1 to n.
+Ex. if n=5, the function returns 55 
+1^2+2^2+3^2+4^2+5^2 = 1+4+9+16+25 = 55
+

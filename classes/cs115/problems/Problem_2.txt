@@ -1,0 +1,15 @@
+Topic: 
+Map/Reduce
+
+Problem Number:
+2
+
+Problem:
+What is the result of the function?
+def mystery(x):
+    return x+1 
+map(mystery, [4,38,74,90])
+
+Answer:
+[5,39,74,90]
+

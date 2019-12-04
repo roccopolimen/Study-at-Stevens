@@ -1,0 +1,11 @@
+Topic:
+Base Conversion and Binary Operations
+
+Problem Number:
+9
+
+Problem:
+Convert 57 into Binary
+
+Answer
+00111001

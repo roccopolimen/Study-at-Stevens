@@ -1,0 +1,11 @@
+Topic:
+Base Conversion and Binary Operations
+
+Problem Number:
+6
+
+Problem:
+Convert 10011011 to Decimal
+
+Answer:
+155
