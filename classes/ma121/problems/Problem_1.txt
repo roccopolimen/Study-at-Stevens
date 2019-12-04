@@ -5,7 +5,11 @@ Problem Number:
 1
 
 Problem:
-Find x if x + 2 = 7
+For the function f(x) = 3(x+2)^2 and the point P given by x = -3,
+Compute the slope of the secant line through the points P and Q given
+the values Q = {-3.5,-3.1,-3.01,=3.001,-3.0001}. Use this information to
+approximate the slope of the tangent line to f(x) at x = -3. Write the equation
+of the tangent line.
 
 Answer:
 5
