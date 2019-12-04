@@ -1,0 +1,11 @@
+Topic: 
+Binary
+
+Problem Number:
+8
+
+Problem:
+Add 01100011 and 00011110  together without changing them into decimal
+
+Answer:
+10000001

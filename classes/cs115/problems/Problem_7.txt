@@ -1,0 +1,18 @@
+Topic:
+Dictionary
+
+Problem Number:
+7
+
+Problem:
+What will the following function output?
+mydict = {
+    "class": "CS 146",
+    "project": "Study at Stevens",
+    "professor": "Dunn"
+}
+x = mydict["professor"]
+print(x)
+Answer:
+Dunn
+
