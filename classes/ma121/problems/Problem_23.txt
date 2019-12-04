@@ -5,8 +5,8 @@ Problem Number:
 23
 
 Problem:
-
+Find the critical numbers of f(x) = (x^2-2x-1)/(2x-5)
 
 Answer:
-
+x = {2,5/2,3}
 
