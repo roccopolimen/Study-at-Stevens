@@ -12,5 +12,5 @@ approximate the slope of the tangent line to f(x) at x = -3. Write the equation
 of the tangent line.
 
 Answer:
-5
+y = -6x - 15
 
