@@ -1,11 +1,11 @@
 Topic: 
-Optimization
+Derivatives of Trignometric Functions
 
 Problem Number:
 14
 
 Problem:
-Find the dimenstions of a rectange with an area 1000m^2, whose perimeter is as small as possible
+f(x) = sin(x)
 
 Answer:
-126.49
+f'(x) = cos(x)
