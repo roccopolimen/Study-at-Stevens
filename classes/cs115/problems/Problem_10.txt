@@ -1,0 +1,12 @@
+Topic:
+Base Conversion and Binary Operations
+
+Problem Number:
+10
+
+Problem:
+Write -43 in two's complement.
+
+Answer:
+11010101
+
