@@ -1,12 +1,11 @@
 Topic:
-Base Conversion and Binary Operations
+Binary
 
 Problem Number:
 9
 
 Problem:
-Convert 01111011 to decimal.
+Convert 57 into Binary
 
 Answer:
-123
-
+00111001

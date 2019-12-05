@@ -5,8 +5,7 @@ Problem Number:
 5
 
 Problem:
-
-
+With the following function: myTuple('Study', 'at', 'Stevens'). What is the value of myTuple[1]?
 Answer:
-
+'at'
 
