@@ -64,7 +64,7 @@ function load_problem(class_name, problem_num) {
         n += 2;
         var solution = "";
         while(logfile[n] != logfile[2]) {
-            solution += logfile[n];
+            solution += logfile[n]+"\n";
             n++;
         }
 
