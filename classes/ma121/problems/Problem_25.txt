@@ -5,8 +5,7 @@ Problem Number:
 25
 
 Problem:
-
+Find the absolute extrema of f(x) = 8x^3 + 81x^2 - 42x - 8 on [-8,2]
 
 Answer:
-
-
+x = {1/4,-7}

@@ -5,8 +5,7 @@ Problem Number:
 26
 
 Problem:
-
+Find the absolute extrema of f(x) = ln(x^2 + 4x + 14) on [-4,2]
 
 Answer:
-
-
+x = {-2}

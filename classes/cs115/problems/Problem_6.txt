@@ -1,12 +1,16 @@
 Topic:
-Tuples and Dictionaries
+Tuples
 
 Problem Number:
 6
 
 Problem:
-
+What will the following function print?
+tuple1 = (6,2,0,373)
+tuple2 = ('Study', 'at', 'Stevens')
+tuple3 = (tuple1, tuple2)
+print(tuple3)
 
 Answer:
-
+((6,2,0,373),('Study', 'at', 'Stevens'))
 

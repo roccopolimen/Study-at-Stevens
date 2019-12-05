@@ -1,12 +1,11 @@
 Topic:
-Base Conversion and Binary Operations
+Binary
 
 Problem Number:
 10
 
 Problem:
-Write -43 in two's complement.
+Convert 10011011 to Decimal
 
 Answer:
-11010101
-
+155

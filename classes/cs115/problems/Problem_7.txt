@@ -7,7 +7,7 @@ Problem Number:
 Problem:
 What will the following function output?
 mydict = {
-    "class": "CS 146",
+    class": "CS 146",
     "project": "Study at Stevens",
     "professor": "Dunn"
 }
