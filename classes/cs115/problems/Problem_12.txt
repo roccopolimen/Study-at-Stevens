@@ -6,13 +6,13 @@ Problem Number:
 
 Problem:
 class Rectangle(object):
-	def __init__(self, length, width):
-		self.length = length
-		self.width = width
+    def __init__(self, length, width):
+        self.length = length
+        self.width = width
 
-	def area(self):
-		area = self.length*self.width
-		return area
+    def area(self):
+        area = self.length*self.width
+        return area
 Instantitate an object with the name of Fence of the above class with a length of 12 and width of 6.
 
 Answer:
