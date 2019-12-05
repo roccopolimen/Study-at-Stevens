@@ -16,6 +16,7 @@
 //     alert(response);
 //     var topic = logfile[1];
     
+<<<<<<< HEAD
     var prob_number = logfile[4];
     var prob_body = "";
     var n = 7;
@@ -23,6 +24,15 @@
         prob_body += logfile[n] + "|";
         n++;
     }
+=======
+//     var prob_number = logfile[4];
+//     var prob_body = "";
+//     var n = 7;
+//     while (logfile[n] != logfile[2]){
+//         prob_body += logfile[n];
+//         n++;
+//     }
+>>>>>>> 3fc2e7a4369001982f1f44604c037fb32d2e77b2
     
 //     n+=2
 //     var solution = "";
@@ -63,16 +73,7 @@ function load_problem(class_name, problem_num) {
             n++;
         }
 
-        alert("Topic: "+topic+"\nProblem Number: "+prob_number+"\nProblem: "+prob_body);
+        alert("Topic: "+topic+"\nProblem: "+prob_body);
         alert("Solution: "+solution);
-        // alert(topic + prob_number + prob_body + solution);
-        // var ph_path = "classes/"+class_name+"/"+class_name+"_prob_holder.html";
-        // $("prob_header").load(ph_path, function() {
-        //     alert("we did it woo");
-        // });
-
-        // $("#prob_header").text(topic + ": Problem " + prob_number);
-        // $("#prob_content").text("Problem: " + prob_body);
-        // $("#prob_solution").text("Solution: " + solution);
     });
 }

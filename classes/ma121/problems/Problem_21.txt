@@ -5,8 +5,8 @@ Problem Number:
 21
 
 Problem:
-
+Estimate sin(61(degrees)) using linear approximation. Round to two decimal places
 
 Answer:
-
+0.87
 
