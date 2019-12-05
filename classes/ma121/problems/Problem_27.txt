@@ -5,7 +5,7 @@ Problem Number:
 27
 
 Problem:
-Find the dimenstions of a rectange with an area 1000m^2, whose perimeter is as small as possible
+Find the dimenstions of a rectangle with an area 1000m^2, whose perimeter is as small as possible
 
 Answer:
 126.49
