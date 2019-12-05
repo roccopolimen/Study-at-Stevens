@@ -5,8 +5,9 @@ Problem Number:
 16
 
 Problem:
-
+Take the derivative of x = y^2 + 2 Implicitly
 
 Answer:
+1 = 2y(dy/dx)
 
 

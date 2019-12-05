@@ -5,8 +5,8 @@ Problem Number:
 19
 
 Problem:
-
+Take the derivative of arctan(arcsin(x))
 
 Answer:
-
+1/((arcsin^2(x)+1)sqrt(1-x^2))
 
