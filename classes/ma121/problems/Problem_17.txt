@@ -4,9 +4,10 @@ Implicit Differentiation
 Problem Number:
 17
 
-Problem:
-
+Problem: 
+Take the implicit derivative of 5 = x^2+y^3-x
 
 Answer:
+0 = 2x+2(dy/dx)(y^2)-1
 
 

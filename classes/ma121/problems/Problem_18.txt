@@ -5,8 +5,8 @@ Problem Number:
 18
 
 Problem:
-
+Take the derivative of arcsin(2x)
 
 Answer:
-
+2/sqrt(1-4x^2)
 
