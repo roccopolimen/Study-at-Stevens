@@ -16,15 +16,6 @@
 //     alert(response);
 //     var topic = logfile[1];
     
-<<<<<<< HEAD
-    var prob_number = logfile[4];
-    var prob_body = "";
-    var n = 7;
-    while (logfile[n] != logfile[2]){
-        prob_body += logfile[n] + "|";
-        n++;
-    }
-=======
 //     var prob_number = logfile[4];
 //     var prob_body = "";
 //     var n = 7;
@@ -32,7 +23,6 @@
 //         prob_body += logfile[n];
 //         n++;
 //     }
->>>>>>> 3fc2e7a4369001982f1f44604c037fb32d2e77b2
     
 //     n+=2
 //     var solution = "";
