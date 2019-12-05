@@ -5,7 +5,7 @@ Problem Number:
 9
 
 Problem:
-Convert 57 into Binary
+Convert 11111111 into Decimal
 
 Answer:
-00111001
+255

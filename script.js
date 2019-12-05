@@ -40,8 +40,13 @@
 // });
 //}
 
+//var topic;
+//var prob_number;
+//var prob_body;
+//var solution;
 
 function load_problem(class_name, problem_num) {
+    $.ajax({async: false});
     var logfile;
     var path = "/classes/" + class_name + "/problems/Problem_" + problem_num + ".txt";
 
@@ -67,3 +72,15 @@ function load_problem(class_name, problem_num) {
         alert("Solution: "+solution);
     });
 }
+
+function contact_form(){
+    alert("Message Sent.")
+}
+
+//$(document).ready(function{
+//    $.ajax({async: false});
+//    $("#prob_header").text(topic + ": Problem " + prob_number);
+//    $("#prob_content").text("Problem: " + prob_body);
+//    $("#prob_solution").text("Solution: " + solution);
+//    //$("#prob_solution").hide();
+//});
